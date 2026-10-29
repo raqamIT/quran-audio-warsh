@@ -1,0 +1,25 @@
+{
+  "originalFile": "103.mp3",
+  "totalSegments": 3,
+  "createdAt": "2026-10-29T15:34:01.545Z",
+  "segments": [
+    {
+      "title": "103_1.webm",
+      "start": 0,
+      "end": 7.650292,
+      "filename": "103_1.webm"
+    },
+    {
+      "title": "103_2.webm",
+      "start": 7.650292,
+      "end": 13.353389,
+      "filename": "103_2.webm"
+    },
+    {
+      "title": "103_3.webm",
+      "start": 13.353389,
+      "end": 26.078256,
+      "filename": "103_3.webm"
+    }
+  ]
+}
